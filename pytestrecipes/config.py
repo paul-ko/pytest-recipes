@@ -1,0 +1,2 @@
+class CommandLineArgumentError(Exception):
+    pass
